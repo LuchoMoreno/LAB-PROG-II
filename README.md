@@ -19,3 +19,7 @@
 
 ### :diamonds: FINALES
 - Se encuentran los finales de la cursada, con su respectiva base de datos.
+-
+
+### :diamonds: RESUMENES
+- Resumen de las diapositivas encontradas en la plataforma. 

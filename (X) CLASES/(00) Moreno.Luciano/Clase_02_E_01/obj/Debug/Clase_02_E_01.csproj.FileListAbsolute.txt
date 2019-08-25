@@ -1,0 +1,14 @@
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.csprojAssemblyReference.cache
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\bin\Debug\Clase_02_E_01.exe.config
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\bin\Debug\Clase_02_E_01.exe
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\bin\Debug\Clase_02_E_01.pdb
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.exe
+D:\VisualStudio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.pdb
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\bin\Debug\Clase_02_E_01.exe.config
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\bin\Debug\Clase_02_E_01.exe
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\bin\Debug\Clase_02_E_01.pdb
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.exe
+D:\Microsoft Visual Studio\Moreno.Luciano\Clase_02_E_01\obj\Debug\Clase_02_E_01.pdb

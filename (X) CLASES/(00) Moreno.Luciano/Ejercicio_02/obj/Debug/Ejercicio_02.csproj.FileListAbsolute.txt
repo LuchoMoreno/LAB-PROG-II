@@ -1,0 +1,13 @@
+D:\VisualStudio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Moreno.Luciano\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+D:\VisualStudio\Moreno.Luciano\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+D:\VisualStudio\Moreno.Luciano\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+D:\VisualStudio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+D:\VisualStudio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_02\obj\Debug\Ejercicio_02.pdb

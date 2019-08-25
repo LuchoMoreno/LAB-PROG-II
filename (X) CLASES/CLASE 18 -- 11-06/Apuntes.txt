@@ -1,0 +1,50 @@
+/ 	SELECT: Seleccionar columnas de una base de datos. Con , de por medio.
+SELECT TOP {NUMERO}: Trae esa cantidad de alumnas.
+SELECT * : Trae todas las columnas en el orden que fueron definidas.
+
+
+/ /	FROM: De donde va a sacar la columna. Aca se especifica el nombre de la tabla a la cual quiero acceder la columna.
+
+/ / / 	WHERE: Es una condicion.
+
+
+/ / / / ORDER BY: Ordenar segun columna. Ademas podemos hacer que ordene ascendentemente o descendentemente. ASC - DESC
+Ej: ORDER BY id ASC
+
+__________________________________
+
+INSERT INTO padron.dbo.Personas (nombre, apellido, edad)		AGREGA UNA NUEVA COLUMNA EN UNA TABLA.
+  VALUES ('Lucho', 'Moreno', 18)
+
+  SELECT nombre, apellido, edad
+  FROM Padron.dbo.Personas
+____
+
+UPDATE Padron.dbo.Personas set nombre = 'Juan' where id = 6
+HAY QUE PONER LA CONDICION. SI NO LA PONEMOS, PUEDE LLEGAR A MODIFICAR TODO EL ARCHIVO 
+______
+
+
+DELETE Padron.dbo.Personas where id = 7 /
+// BORRA ALGOHAY QUE PONER LA CONDICION SINO BORRA TODO.
+
+
+CODIGO COMPLETO:
+
+ /* SELECT TOP 5 id, nombre, apellido, edad
+  FROM Padron.dbo.Personas
+  WHERE (id > 0)
+  ORDER BY id DESC*/
+
+  INSERT INTO padron.dbo.Personas (nombre, apellido, edad)
+  VALUES ('Lucho', 'Moreno', 18)
+
+  SELECT nombre, apellido, edad
+  FROM Padron.dbo.Personas
+
+  UPDATE Padron.dbo.Personas set nombre = 'Juan' where id = 6
+  
+  SELECT nombre, apellido, edad
+  FROM Padron.dbo.Personas
+
+  DELETE Padron.dbo.Personas where id = 7

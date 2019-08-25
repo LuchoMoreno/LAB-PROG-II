@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\bin\Debug\Clase_05_CL_01.dll
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\bin\Debug\Clase_05_CL_01.pdb
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.dll
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.pdb
+C:\Users\Lucho\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.dll
+C:\Users\Lucho\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\obj\Debug\Clase_05_CL_01.pdb
+C:\Users\Lucho\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\bin\Debug\Clase_05_CL_01.dll
+C:\Users\Lucho\Desktop\LAB2-Solucion-Clases\(00) Moreno.Luciano\Clase_05_CL_01\bin\Debug\Clase_05_CL_01.pdb

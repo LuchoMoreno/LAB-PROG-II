@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\bin\Debug\Clase_18_C_01.exe.config
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\bin\Debug\Clase_18_C_01.exe
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\bin\Debug\Clase_18_C_01.pdb
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\bin\Debug\Clase_18_CL_01.dll
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\bin\Debug\Clase_18_CL_01.pdb
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\bin\Debug\Clase_18_CL_01.dll.config
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\obj\Debug\Clase_18_C_01.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\obj\Debug\Clase_18_C_01.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\obj\Debug\Clase_18_C_01.csproj.CopyComplete
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\obj\Debug\Clase_18_C_01.exe
+C:\Users\alumno\Desktop\LAB2-Solucion-Clases\(02) Moreno.Luciano\Clase_18_C_01\obj\Debug\Clase_18_C_01.pdb

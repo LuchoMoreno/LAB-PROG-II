@@ -1,0 +1,41 @@
+streamwriter -> Permite generar un archivo de texto de manera sencilla. Mucho mas sencilla que lo que
+era en C. Lo unico que hace falta es instanciar la clase steamwriter. -> Acceder al constructor, el constructor
+tiene sobrecargas (8).
+path -> Ruta donde quiero que se escriba + el nombre del archivo.
+append -> TRUE -> Agrega informacion al archivo / FALSE -> Sobrescribe el archivo.
+
+Write() -> Escritura de una linea sin generar salto de linea.
+WriteLine() -> Escritura en una linea agregando salto de linea.
+Close() -> Permite cerrar el archivo de texto. SI NO LO CIERRO, TIRA UNA EXCEPCION QUE UN PROCESO TIENE TOMADO AL ARCHIVO.
+
+*** Puede ser que el path no exista -> Tira una excepcion.
+*** Puede ser que si exista, pero no tenga permiso de escritura en ese directorio -> Tira una excepcion.
+*** Puede ser que quiera escribir mi archivo en una subcarpeta, dentro de otra, generando que 
+la longitud del path supere el maximo del archivo -> Tira una excepcion.
+*** Al momento de escribir el path pongo c - nombre (coloco mal el path) -> Tira una excepcion.
+
+SIEMPRE TIENE QUE ESTAR EN UN TRY CATCH, PORQUE PUEDE SER QUE GENERE EXCEPCIONES.
+
+solucion de paths ->
+1) Si es corto, solo pongo doble barra.
+2) Si es largo, le antepongo un arroba, por fuera del string. Esto dice que ningun caracter contenido
+en esa cadena va a servir como caracter de escape.
+
+
+CLASE appDomain ->>>>> Sirve para brindar distintas informaciones de mi aplicacion, se accede appDomain.CurrentDomain 
+porque es la aplicacion actual. appDomain.CurrentDomain.BaseDirectory devuelve un string con el path de la carpeta
+que contiene el exe.
+
+A todo esto le concateno /miArchivo.txt
+
+
+CLASE stringReader ->>>>> Sirve para leer archivos. Path + nombre del archivo que queremos leer.
+Si el archivo no está -> Genera excepcion.
+read() -> Lee de un caracter a la vez.
+ReadToEnd() -> Primer caracter al ultimo caracter del archivo de texto y lo devuelve como string. 
+ReadLine() -> Lee una linea del archivo de texto hasta que encuentra un salto de linea. Hay que colocarlo 
+en una estructura repetitiva para que lea todas las lineas por separado. 
+Close() -> Permite cerrar el archivo, sino va a tirar una excepcion.
+
+
+CLASE environment ->>>>> Permite conocer ubicacion de direcciones especiales.

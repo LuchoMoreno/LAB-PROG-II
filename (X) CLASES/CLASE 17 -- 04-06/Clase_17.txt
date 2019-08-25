@@ -1,0 +1,28 @@
+XML -> 	Atributos ( Publicos / Propiedades de lectura - escritura / Propiedades de solo lectura) Esta ultima si se trata de colecciones.
+	Constructor -> Hay que agregar un constructor por default. Sino no va a permitir la serializacion del objeto.
+	Clase pública -> La clase tiene que ser publica.
+
+
+ALUMNO -> Vamos a necesitar una clase que sepa como serializar.
+
+
+Interfaz: Metodos / Propiedades. No se pueden atributos.
+Caracteristicas especiales: Dentro de la interfaz, tanto metodos como propiedades,
+no deben tener implementacion.
+
+No hay metodos con implementacion porque son abstractos.
+
+No se puede colocar el modificador abstract ni tamoco modificadores de visibilidad,
+No utilizan modificadores override. Solo se utiliza si en el metodo o propiedad tiene
+la palabra abstract o tiene la palabra virtual.
+
+
+Si una clase implementa una interfaz, la clase tiene que implementar todos los metodos de la interfaz, y todos
+de instancia. NINGUNO ESTATICO. La clase que utiliza la interfaz se compromete a darle la implementacion a todos, por mas que
+despues no se utilicen. No puede quedar nada sin implementar.
+
+
+
+SI 2 METODOS SE LLAMAN IGUALES EN DISTINTA INTERFAZ 
+
+No es una clase, no se puede instanciar, no se puede heredar

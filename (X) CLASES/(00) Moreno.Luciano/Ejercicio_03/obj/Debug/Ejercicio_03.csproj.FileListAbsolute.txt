@@ -1,0 +1,21 @@
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+D:\Microsoft Visual Studio\Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\Lucho\Desktop\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Ejercicio_03\obj\Debug\Ejercicio_03.pdb

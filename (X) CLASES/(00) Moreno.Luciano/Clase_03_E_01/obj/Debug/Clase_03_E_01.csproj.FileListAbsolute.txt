@@ -1,0 +1,7 @@
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\bin\Debug\Clase_03_E_01.exe.config
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\bin\Debug\Clase_03_E_01.exe
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\bin\Debug\Clase_03_E_01.pdb
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\obj\Debug\Clase_03_E_01.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\obj\Debug\Clase_03_E_01.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\obj\Debug\Clase_03_E_01.exe
+C:\Users\Lucho\Desktop\LAB2\(00) Moreno.Luciano\Clase_03_E_01\obj\Debug\Clase_03_E_01.pdb

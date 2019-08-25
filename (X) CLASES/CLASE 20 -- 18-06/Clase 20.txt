@@ -1,0 +1,4 @@
+DELEGADO : Es un puntero a funciones. Un objeto que lo unico que hace es redirigir el flujo de codigo de un lugar
+hacia otro. Lo unico que contiene es una lista de invocacion a otros metodos pero siempre con la misma firma.
+
+Por eso todos los manejadores de eventos tiene la misma firma. Por eso el delegado solo admite una firma.

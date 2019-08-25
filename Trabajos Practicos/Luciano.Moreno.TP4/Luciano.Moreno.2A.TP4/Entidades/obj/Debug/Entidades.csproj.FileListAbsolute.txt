@@ -1,0 +1,21 @@
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,42 @@
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\bin\Debug\Formulario.exe
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\bin\Debug\Entidades.dll.config
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.FrmPpal.resources
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.exe
+C:\Users\Lucho\Desktop\TP4 LUCHO MORENO\Entidades\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Formulario.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Entidades.dll.config
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.exe
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Lucho\Desktop\Luciano.Moreno.TP4\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\MainCorreo1.FrmPpal.resources
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Formulario.exe
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Entidades.dll
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\bin\Debug\Entidades.dll.config
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\MainCorreo1.FrmPpal.resources
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.exe
+C:\Users\Lucho\Desktop\COPIA - copia (2)\Luciano.Moreno.2A.TP4\Formulario\obj\Debug\Formulario.pdb
